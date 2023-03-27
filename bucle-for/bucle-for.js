@@ -83,7 +83,7 @@ alert("El promedio de los numeros ingresados es: " + prom.toFixed(2));
 let mensaje = '';
 
 for (i = 0; i < 20; i++) {
-  mensaje += Math.floor(Math.random() * 101) + "\n";
+  mensaje += Math.floor(Math.random() * 151) + "\n";
 }
 
 alert(mensaje);
